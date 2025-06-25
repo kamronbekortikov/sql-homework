@@ -29,8 +29,5 @@
    | Use       | Hosts, stores, and processes databases | Used to manage SQL Server visually  | Used to query and manage databases |
    | Interface | Background Service                     | Graphical Interface                 | Text-based Command Language        |
 7. 
-8. Insert into Students (StudentID, Name, Age) values
-  (1, 'Anvar',   21, 
-   2, 'Bobur'  ,   22, 
-   3, 'Abror', 20)
+8. Insert into Students (StudentID, Name, Age) values(1, 'Anvar',   21), (2, 'Bobur'  ,   22), (3, 'Abror', 20);
 
